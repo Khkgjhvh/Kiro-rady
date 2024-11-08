@@ -1,0 +1,30 @@
+input{
+    font-size:20px;
+    padding:15px;
+    bordar:0;
+    bordar-radius:10px;
+   direction:rtl;
+   outline:0;
+}
+    
+}
+   
+ #submit{
+    background-color:brown;
+    color:#FFF;
+    cursor:pointer;
+    transition:500ms;
+} 
+   
+
+
+
+
+        
+   body {
+            background-image: linear-gradient(red,blue);
+            height:100vh;
+    }
+       #submit:hover{
+    background-color:rgb(102,10,10);
+   
